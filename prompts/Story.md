@@ -265,3 +265,16 @@ Before the story is considered complete, verify:
 - Memorable ending
 - No filler
 - No repeated ideas
+## Example: Cause-and-Effect Chain (GOOD)
+Scene 1: What if gravity doubled right now?
+Scene 2: Your body instantly weighs 150kg — your knees buckle.
+Scene 3: Every plane in the sky nosedives — they're built for 1G.
+Scene 4: Ocean tides surge 15 meters — coastal cities flood in minutes.
+(Each scene is a CONSEQUENCE of the previous one)
+
+## Example: Disconnected Scenes (BAD)
+Scene 1: Gravity doubles!
+Scene 2: Buildings look different.  
+Scene 3: Animals are confused.
+Scene 4: Scientists study gravity.
+(Random observations, no chain reaction)
