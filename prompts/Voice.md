@@ -201,3 +201,11 @@ Before completing the voiceover, verify:
 - No filler.
 - Conversational and engaging.
 - Comfortable for text-to-speech generation.
+## Example: Narration (GOOD)
+"Your knees buckle under your own weight — you're 150kg now. 
+But here's the terrifying part: so is every plane in the sky."
+(Continues the story, creates suspense, 2nd person)
+
+## Example: Narration (BAD)
+"Gravity doubles and things get heavy — wow, mind blown!"
+(Describes instead of narrates, filler ending)
