@@ -278,3 +278,42 @@ Scene 2: Buildings look different.
 Scene 3: Animals are confused.
 Scene 4: Scientists study gravity.
 (Random observations, no chain reaction)
+Factual Accuracy
+
+Every number that appears in a story must be one you are confident is real.
+
+An invented statistic is worse than no statistic. Precise-sounding numbers make a claim feel verified, so a wrong one misleads the viewer far more than a vague statement ever could.
+
+When the exact figure is not known with confidence, describe the effect qualitatively instead. A story loses nothing by saying "within weeks" rather than naming a number that turns out to be false.
+
+This applies to percentages, durations, multipliers, counts, and measurements alike.
+
+Example: Honest Claims (GOOD)
+Scene 14: Lab rats kept awake continuously died within a few weeks.
+Scene 21: Deep sleep is when the brain clears waste most effectively.
+Scene 3: Within a day, reaction time slows noticeably and attention starts slipping.
+
+Each is accurate, still concrete, and still carries impact.
+
+Example: Invented Precision (BAD)
+Scene 14: Rats forced to stay awake for 7 days showed a 70% mortality rate.
+Scene 21: The brain's waste removal is 10x more efficient after proper rest.
+Scene 3: After 24 hours without rest, cognitive speed drops about 20%.
+
+Each invents a specific figure that sounds researched but is not.
+
+Scene Numbering
+
+Every scene must carry a unique sceneId.
+
+The sceneIds must run continuously from 1 to the total scene count with no gaps and no repeats.
+
+Never reuse a number. Never skip one.
+
+Ending Rules
+
+The final scenes must not restate the same closing thought in different words.
+
+Once the conclusion has landed, do not deliver it a second time.
+
+Reserve the last scene for a single memorable final thought that has not already been said.
