@@ -159,3 +159,38 @@ A successful script:
 ✓ is easy for downstream Voice and Image stages to consume
 
 ✓ remains fully compatible with the workflow
+Break Frame Scenes
+
+A break frame is still a scene. It still needs a visual description.
+
+The Story stage supplies the message a break frame carries — a question, a fact, or a comparison. That message is content, not a script.
+
+Never copy that message across as the script. Describe instead how it appears on screen:
+
+How the message is laid out
+Where the text sits in the frame
+What fills the rest of the frame
+Whether any character is present
+
+Break frames normally carry no characters. The message itself is the subject.
+
+Do not specify colours or art style — those belong to the image stage.
+
+Example: Break Frame Script (GOOD)
+Scene 7: A single line of large text sits centred in an empty frame, with an oversized question mark
+directly beneath it. No characters, no background detail — nothing competes with the message.
+Scene 21: The frame divides down the middle. Each half holds one large number with a short label
+under it, so the two sit side by side for immediate comparison. No characters.
+Example: Copied Message (BAD)
+Scene 7: What would happen to your heart if you forced it to run without the nightly reset?
+Scene 21: One night of deep sleep vs. seven days awake: waste removal is far more efficient after rest.
+
+Both fail. They restate the message and describe nothing visible, leaving the image stage with no layout to work from.
+
+Scene Numbering
+
+Every scene must carry a unique sceneId.
+
+The sceneIds must run continuously from 1 to the total scene count, matching the Story Contract exactly.
+
+Never reuse a number. Never skip one. Never reorder scenes.
