@@ -209,3 +209,54 @@ But here's the terrifying part: so is every plane in the sky."
 ## Example: Narration (BAD)
 "Gravity doubles and things get heavy — wow, mind blown!"
 (Describes instead of narrates, filler ending)
+Never Name Emotions
+
+The scene data may describe an emotional tone such as curiosity, suspense, wonder, or satisfaction.
+
+These are directions for how the line should feel, never words to put in the narration.
+
+Never write an emotion word into the voiceover. Create the feeling through the fact, the image, or the pacing instead.
+
+Narration, Not Description
+
+The script already describes what appears on screen. The viewer can see it.
+
+The voiceover must say something the picture cannot say: what it means, why it matters, what happens next.
+
+Never restate the visual. Never write in caption or headline style. Every line must sound like a person talking.
+
+Example: Natural Narration (GOOD)
+Scene 3: Twenty-four hours in, your brain starts taking naps without asking you first. You blink, and three seconds are gone.
+Scene 4: By day two it's burning through glucose like it's panicking. Because it is. Straight lines start to bend.
+Scene 5: Your immune system notices nobody's guarding the door. Inflammation rises, and every passing germ gets a free shot.
+
+Why these work:
+
+Written the way a person actually speaks, not compressed into fragments
+Speaks directly to the listener using "you" and "your"
+Each line adds one concrete new thing the picture alone cannot deliver
+The feeling comes from the content — no emotion is ever named
+Each line hands off to the next, so the story keeps moving
+Example: What to Avoid (BAD)
+Scene 3: Brain speed drops, suspense builds, micro-sleep bubbles pop.
+Scene 4: Glucose spikes, vision blurs, irritability rises in suspense.
+Scene 5: Red sparks flare, immune soldiers scatter, wonder at inflammation.
+
+Why these fail:
+
+Telegram-style fragments — nobody speaks like this out loud
+Names the emotions ("suspense", "wonder") instead of creating them
+Only restates what the picture already shows, adding nothing
+Comma-stacked clauses with no subject make text-to-speech sound robotic
+Every line uses the identical rhythm, so the narration flattens out
+Break Frame Narration
+
+A break frame carries one short spoken line.
+
+Deliver the question, the fact, or the comparison in plain speech.
+
+Never announce the type. Never say "here's a question" or "fun fact".
+
+GOOD: So what happens to your heart when it never gets to stand down?
+
+BAD: Break frame question: what happens to the heart?
