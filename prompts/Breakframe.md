@@ -66,7 +66,15 @@ Use bold composition with a clean layout.
 The message should be the immediate visual focus.
 
 ---
+## Characters
 
+Break frames carry no characters.
+
+The message itself is the subject of the frame. Nothing may share attention with it.
+
+This applies to the main character and to every supporting character.
+
+---
 ## Story Connection
 Every Break Frame must directly relate to the surrounding story.
 After the Break Frame, the story should continue smoothly.
