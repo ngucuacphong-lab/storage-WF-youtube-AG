@@ -10,7 +10,7 @@ Every image should immediately communicate the main idea of the scene without re
 
 ## Visual Style
 
-Use a clean 2D stickman animation style.
+Follow the visual style defined in the Character Lock rules.
 
 Maintain a bright, modern, and visually appealing appearance.
 
