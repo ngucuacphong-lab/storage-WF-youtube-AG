@@ -139,7 +139,7 @@ Allowed types:
 
 - Question
 - Fact
-
+- Comparison
 ---
 
 ## 7. Consistency Check
@@ -193,19 +193,6 @@ Examples:
 - Weak voiceover formatting.
 
 ---
-
-## FAIL
-
-Use only when the entire output is unusable.
-
-Examples:
-
-- Completely missing scenes.
-- Invalid structure.
-- Output cannot be repaired by fixing individual scenes.
-
----
-
 # Output Format
 
 If everything is acceptable:
@@ -213,15 +200,6 @@ If everything is acceptable:
 ```
 STATUS: PASS
 ERRORS: []
-```
-
----
-
-If problems exist:
-
-```
-STATUS: NEEDS_FIX
-ERRORS: [{"section":"SCRIPT|VOICEOVER|IMAGE_PROMPTS","scene":7,"issue":"short reason"}]
 ```
 
 ---
@@ -234,7 +212,22 @@ ERRORS: [{"section":"...","scene":0,"issue":"..."}]
 ```
 
 ---
+If problems exist:
 
+STATUS: NEEDS_FIX ERRORS: [{"contract":"scripts|image|voice","sceneId":7,"reason":"short reason"}]
+
+
+Field names are fixed. Use exactly `contract`, `sceneId` and `reason`.
+
+`contract` must be one of `scripts`, `image`, `voice` — lowercase, nothing else.
+
+`sceneId` must be a number, never a string.
+
+An error using any other field name or contract value is discarded and the scene is never repaired.
+---
+
+
+An error using any other field name or contract value is discarded and the scene is never repaired.
 # Forbidden
 
 Do not rewrite content.
