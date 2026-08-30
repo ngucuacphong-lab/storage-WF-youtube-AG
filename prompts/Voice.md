@@ -91,7 +91,29 @@ Introduce an uncommon technical term only when necessary, and explain it in simp
 Avoid punctuation that causes unnatural pauses.
 
 ---
+## Your Two Inputs
 
+Each scene arrives with two pieces of information.
+
+**STORY MEANING** — the cause, the consequence, and the reason this scene exists, plus how it leads into the next one.
+
+**SCRIPT** — what the viewer will be looking at while you speak.
+
+Narrate the meaning. Use the script only to stay consistent with what is on screen, never as material to describe.
+
+The script tells you what the viewer can already see, which is exactly what your narration must not spend words on.
+
+**STORY MEANING:** `Reduced tidal mixing diminishes nutrient upwelling, causing fish stocks to plummet`
+
+**SCRIPT:** `A fishing vessel at sea is empty; a chart on its deck shows declining numbers, with a red arrow pointing downward.`
+
+**GOOD:** `Without tides stirring the water, the nutrients that feed everything stop rising. The fish go with them.`
+
+**BAD:** `A fishing boat returns empty, its chart showing fish stocks plummeting sharply.`
+
+The bad version reads the picture back to the viewer. The good version explains why the boat is empty — something the picture cannot say on its own.
+
+---
 # The Three Rules That Matter Most
 
 Everything above describes good narration. These three are the ones most often broken. Check every line against them.
