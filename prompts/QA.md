@@ -203,15 +203,6 @@ ERRORS: []
 ```
 
 ---
-
-If the content cannot be repaired:
-
-```
-STATUS: FAIL
-ERRORS: [{"section":"...","scene":0,"issue":"..."}]
-```
-
----
 If problems exist:
 
 STATUS: NEEDS_FIX ERRORS: [{"contract":"scripts|image|voice","sceneId":7,"reason":"short reason"}]
