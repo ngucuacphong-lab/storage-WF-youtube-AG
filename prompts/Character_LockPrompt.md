@@ -212,3 +212,4 @@ Before generating image prompts, verify:
 - Body language matches the emotion.
 - Identity is preserved.
 - No unnecessary redesign.
+- Visual style follows: 2D hand-drawn, noodle animation, thick black outline, saturated colors.
