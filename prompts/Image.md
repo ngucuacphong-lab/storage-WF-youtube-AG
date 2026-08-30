@@ -19,7 +19,15 @@ Keep the overall style consistent throughout the entire video.
 Avoid realistic or semi-realistic rendering.
 
 ---
+## Prompt Output
 
+Write exactly one image prompt per scene.
+
+Each prompt describes a single still frame. Never describe motion, a sequence, or a montage.
+
+Every prompt must end with the aspect ratio supplied at runtime, written exactly as it is given.
+
+---
 ## Composition
 
 Each image should have one clear visual focus.
