@@ -7,7 +7,20 @@ Define and preserve the visual identity of all recurring characters throughout t
 Characters must remain instantly recognizable in every scene.
 
 ---
+## Visual Style
 
+All characters and scenes must follow these visual rules:
+
+- 2D hand-drawn style.
+- Noodle animation style with flexible, fluid limbs and movements.
+- Thick black outline on all characters and objects.
+- Saturated colors throughout every scene.
+
+These rules apply to every character, every scene, and every image prompt.
+
+Do not deviate from this visual style.
+
+---
 ## Main Character
 
 ### Identity
