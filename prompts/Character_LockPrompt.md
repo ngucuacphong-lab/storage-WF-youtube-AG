@@ -1,215 +1,80 @@
-# Character Lock Prompt
+Purpose
 
-## Purpose
+Define who the recurring characters are, when they appear, and how they look.
 
-Define and preserve the visual identity of all recurring characters throughout the entire video.
+Characters must stay instantly recognizable in every scene.
 
-Characters must remain instantly recognizable in every scene.
+Scope
 
----
-## Visual Style
+This file is read by the Story, Scripts and Image stages. Each stage uses a different part.
 
-All characters and scenes must follow these visual rules:
+Story uses Role and Presence only, to decide who appears in a scene. It never describes appearance.
 
-- 2D hand-drawn style.
-- Noodle animation style with flexible, fluid limbs and movements.
-- Thick black outline on all characters and objects.
-- Saturated colors throughout every scene.
+Scripts uses Role and Presence to place the character in the frame and give them an action. It never describes appearance.
 
-These rules apply to every character, every scene, and every image prompt.
+Image uses every section, including Appearance and Visual Style.
 
-Do not deviate from this visual style.
+Appearance belongs to the image prompt alone. It must never appear in a story keyIdea or a script sentence.
 
----
-## Main Character
+Main Character — Role
 
-### Identity
+The main character is an ordinary person living through the scenario, not a narrator.
 
-The main character is the primary focus of the story.
+They witness events, react to them, and are affected by them. They never explain anything to the audience and never address the camera.
 
-The main character should appear whenever the story naturally requires their presence.
+The audience follows the story through what happens to this character.
 
-The audience should easily recognize the main character across every scene.
+Main Character — Presence
 
----
+The main character appears in any scene a person could plausibly witness or be caught up in.
 
-### Appearance
+They do not appear in scenes showing a pure physical phenomenon, a distant view of the planet, animals alone, or data.
 
-Use a simple stickman design.
+They never appear in a break frame.
 
-Hair color: Blonde.
+When present, they must be doing something that belongs to that moment — never standing by and watching.
 
-Hairstyle: Short quiff.
+Main Character — Appearance
 
-Maintain a clean and recognizable silhouette.
+Simple stickman.
 
-Avoid unnecessary visual complexity.
+Blonde hair, short quiff.
 
----
-
-### Facial Expression
-
-Expressions should always match the emotion of the current scene.
-
-Examples include:
-
-- Curious
-- Surprised
-- Happy
-- Confused
-- Worried
-- Shocked
-- Determined
-
-Avoid exaggerated expressions unless the story intentionally requires them.
-
----
-
-### Body Language
-
-Body posture should support the emotion and action of the scene.
-
-Body language should feel natural and readable.
-
-Avoid stiff or emotionless poses.
-
----
-
-## Supporting Characters
-
-Supporting characters exist to support the story.
-
-They should never visually overpower the main character.
-
----
-
-### Appearance
-
-Use simple stickman designs.
-
-Hair color:
-
-- Black
-- Dark Brown
-
-Keep hairstyles simple and consistent.
-
----
-
-### Identity
-
-If a supporting character appears multiple times,
-their appearance should remain consistent throughout the story.
-
----
-
-## Character Priority
-
-Priority 1
-
-Main Character
-
-Priority 2
+Clean, recognizable silhouette. No unnecessary detail.
 
 Supporting Characters
 
-Priority 3
+Simple stickmen with black or dark brown hair.
 
-Background Characters
+They support the scene and never visually overpower the main character.
 
-The viewer's attention should naturally focus on higher-priority characters.
+A supporting character who appears more than once keeps the same look every time.
 
----
+Expression and Body Language
 
-## Character Consistency
+Face and posture must carry the emotion and the action of the scene.
 
-Maintain consistent:
+No blank faces. No stiff poses. Characters react to each other.
 
-- Hairstyle
-- Hair color
-- Body proportions
-- Character identity
-- Visual style
+Keep expressions natural unless the story calls for something bigger.
 
-Characters should remain recognizable even if:
+Identity Lock
 
-- Clothing changes
-- Camera angle changes
-- Lighting changes
-- Environment changes
+Hair colour, hairstyle, body type, identity and role never change — not for a costume change, a camera angle, different lighting, or a new environment.
 
----
+Never swap identities between characters. Never merge two characters into one.
 
-## Character Interaction
+Never introduce a new recurring character unless the story requires one.
 
-Characters should naturally react to one another.
+Minor artistic variation is fine. Core identity is not.
 
-Facial expressions and body language should reflect the current situation.
+Visual Style
 
-Avoid emotionless interactions.
+Applies to every character, object and scene:
 
----
+2D hand-drawn
+Noodle animation style, with flexible fluid limbs
+Thick black outline on everything
+Saturated colours throughout
 
-## Character Visibility
-
-Whenever a scene requires a recurring character,
-that character must be clearly visible.
-
-Avoid hiding important characters without narrative reason.
-
----
-
-## Identity Lock
-
-Never change:
-
-- Hair color
-- Hairstyle
-- Body type
-- Character identity
-- Character role
-
-Never swap identities between characters.
-
-Never merge two different characters into one.
-
----
-
-## Visual Stability
-
-Minor artistic variation is acceptable.
-
-Core identity must remain unchanged.
-
-The audience should immediately recognize every recurring character.
-
----
-
-## Forbidden
-
-Do not randomly redesign characters.
-
-Do not introduce new recurring characters unless required by the story.
-
-Do not randomly change hairstyles.
-
-Do not randomly change hair colors.
-
-Do not make supporting characters visually dominate the main character.
-
-Do not create inconsistent appearances across scenes.
-
----
-
-## Character Quality Checklist
-
-Before generating image prompts, verify:
-
-- Main character is recognizable.
-- Supporting characters remain consistent.
-- Character priority is respected.
-- Expressions match the story.
-- Body language matches the emotion.
-- Identity is preserved.
-- No unnecessary redesign.
-- Visual style follows: 2D hand-drawn, noodle animation, thick black outline, saturated colors.
+Never deviate from this style.
